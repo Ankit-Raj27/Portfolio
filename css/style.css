@@ -46,9 +46,12 @@ p{
 }
 hr{
     border:dotted #EAF6F6 6px;
-    border-bottom:none;
-    width:4%;
     margin:100px auto 100px auto;
+}
+.top-hr
+{
+    margin:0;
+    padding:0;
 }
 .top-cloud 
 {
@@ -139,3 +142,4 @@ hr{
       font-size: 0.75rem;
       padding: 30px;
   }
+
